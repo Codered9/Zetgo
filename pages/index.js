@@ -6,6 +6,7 @@ export default function Index() {
   return (
     <div className="mr-4 pb-[1px] pr-3">
       <Head>
+      <link rel="shortcut icon" href="/Zetgo.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap" rel="stylesheet" />
       </Head>
       <NavBar />

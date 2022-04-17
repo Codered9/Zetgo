@@ -2,8 +2,8 @@ import { useState } from "react"
 import GuestLogo from "../tools/logos/GuestLogo";
 
 export default function GuestsCount() {
-    const [adults, setAdults] = useState(1);
-    const [children, setChildren] = useState(1);
+    const [adults, setAdults] = useState(0);
+    const [children, setChildren] = useState(0);
     const [display, setDisplay] = useState(true);
     console.log(display);
     function decrement(value) {
