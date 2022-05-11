@@ -1,4 +1,4 @@
-This is a Frontend Project assigned for Internshala internship.
+This is a Frontend Project assigned for Internshala Internship.
 
 ## Getting Started
 
